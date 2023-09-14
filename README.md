@@ -7,9 +7,9 @@
 
 ## 🧰 Tecnologias utilizadas  
 - [KERAS](https://keras.io/), biblioteca do Python para <i>Deep Learning</i> 
-- [xxxx](https://html), pacote ... Python
-- [xxxx](https://docs.html) e [xxxx](https://www.crummy), bibliotecas para ...
-- [xxx](https://scikit), pacote para ... 
+- [NumPy](https://numpy.org/pt/), biblioteca para computação científica com Python
+- [TensorFlow](https://www.tensorflow.org/?hl=pt-br), biblioteca para criar modelos de <i>Machine Learning</i>
+- [scikit-learn](https://scikit-learn.org/stable/), biblioteca com ferramentas para análise preditiva de dados 
 
 ---  
 
